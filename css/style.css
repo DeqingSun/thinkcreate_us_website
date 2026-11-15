@@ -3507,6 +3507,14 @@ a.logo:hover{
     font-weight: 300;
 }
 
+.contact-email-only{
+    text-align: center;
+}
+.contact-email-only .contact-item{
+    display: inline-block;
+    text-align: left;
+}
+
 /*
  * Contact form
  */
